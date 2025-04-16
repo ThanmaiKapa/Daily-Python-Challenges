@@ -21,7 +21,6 @@ All problems and solutions are stored in one continuously updated notebook.
 ## 🔧 Tools Used
 - Python 3
 - Google Colab
-- Git & GitHub
 
 ---
 
